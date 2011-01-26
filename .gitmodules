@@ -1,0 +1,9 @@
+[submodule "plugin-repos/nerdtree"]
+	path = plugin-repos/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "plugin-repos/command-t"]
+	path = plugin-repos/command-t
+	url = git://github.com/wincent/Command-T.git
+[submodule "plugin-repos/vim-rails"]
+	path = plugin-repos/vim-rails
+	url = git://github.com/tpope/vim-rails.git
